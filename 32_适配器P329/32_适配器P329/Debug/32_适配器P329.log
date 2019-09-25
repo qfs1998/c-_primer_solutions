@@ -1,0 +1,12 @@
+﻿  源.cpp
+d:\规范格式代码\c++\32_适配器p329\32_适配器p329\源.cpp(11): error C2664: “std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>::stack(std::stack<_Ty,std::deque<_Ty,std::allocator<_Ty>>> &&)”: 无法将参数 1 从“std::vector<int,std::allocator<_Ty>>”转换为“const std::deque<_Ty,std::allocator<_Ty>> &”
+          with
+          [
+              _Ty=int
+          ]
+  d:\规范格式代码\c++\32_适配器p329\32_适配器p329\源.cpp(11): note: 原因如下: 无法从“std::vector<int,std::allocator<_Ty>>”转换为“const std::deque<_Ty,std::allocator<_Ty>>”
+          with
+          [
+              _Ty=int
+          ]
+  d:\规范格式代码\c++\32_适配器p329\32_适配器p329\源.cpp(11): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符

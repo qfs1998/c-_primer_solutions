@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\规范格式代码\c++\34_返回引用以及cin输入\34_返回引用以及cin输入\源.cpp(9): warning C4101: “b”: 未引用的局部变量
+  34_返回引用以及cin输入.vcxproj -> D:\规范格式代码\C++\34_返回引用以及cin输入\Debug\34_返回引用以及cin输入.exe
+  34_返回引用以及cin输入.vcxproj -> D:\规范格式代码\C++\34_返回引用以及cin输入\Debug\34_返回引用以及cin输入.pdb (Partial PDB)

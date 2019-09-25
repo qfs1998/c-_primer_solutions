@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_读模式打开文件P285", "11_读模式打开文件P285\11_读模式打开文件P285.vcxproj", "{F04484C0-176A-451A-A767-17167D1BF39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Debug|x64.ActiveCfg = Debug|x64
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Debug|x64.Build.0 = Debug|x64
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Debug|x86.Build.0 = Debug|Win32
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Release|x64.ActiveCfg = Release|x64
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Release|x64.Build.0 = Release|x64
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Release|x86.ActiveCfg = Release|Win32
+		{F04484C0-176A-451A-A767-17167D1BF39B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29052EAB-FB80-48AD-8672-287CC1481056}
+	EndGlobalSection
+EndGlobal

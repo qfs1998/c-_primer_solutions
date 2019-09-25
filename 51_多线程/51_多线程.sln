@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "51_多线程", "51_多线程\51_多线程.vcxproj", "{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Debug|x64.ActiveCfg = Debug|x64
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Debug|x64.Build.0 = Debug|x64
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Debug|x86.Build.0 = Debug|Win32
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Release|x64.ActiveCfg = Release|x64
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Release|x64.Build.0 = Release|x64
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Release|x86.ActiveCfg = Release|Win32
+		{EF7CF459-2C8B-4A93-B380-7E8B1BE69E60}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496DD1CB-DC3A-495C-A3B3-BFC9BAF0CA7A}
+	EndGlobalSection
+EndGlobal

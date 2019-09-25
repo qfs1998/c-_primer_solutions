@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_string替换P324", "25_string替换P324\25_string替换P324.vcxproj", "{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Debug|x64.ActiveCfg = Debug|x64
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Debug|x64.Build.0 = Debug|x64
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Debug|x86.Build.0 = Debug|Win32
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Release|x64.ActiveCfg = Release|x64
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Release|x64.Build.0 = Release|x64
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Release|x86.ActiveCfg = Release|Win32
+		{C800CE9E-6DF2-4E21-950D-7CCF0F8AFF2B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88A312B-B650-45D2-9337-C36C833F777C}
+	EndGlobalSection
+EndGlobal

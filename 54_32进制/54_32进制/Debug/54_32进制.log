@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\thinkpad\source\repos\规范格式代码\c++\54_32进制\54_32进制\源.cpp(11): warning C4101: “c”: 未引用的局部变量
+c:\users\thinkpad\source\repos\规范格式代码\c++\54_32进制\54_32进制\源.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+  54_32进制.vcxproj -> C:\Users\ThinkPad\source\repos\规范格式代码\C++\54_32进制\Debug\54_32进制.exe

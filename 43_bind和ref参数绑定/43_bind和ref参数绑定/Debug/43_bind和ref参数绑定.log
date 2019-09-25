@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\规范格式代码\c++\43_bind和ref参数绑定\43_bind和ref参数绑定\源.cpp(11): warning C4018: “>”: 有符号/无符号不匹配
+d:\规范格式代码\c++\43_bind和ref参数绑定\43_bind和ref参数绑定\源.cpp(18): warning C4018: “>”: 有符号/无符号不匹配
+d:\规范格式代码\c++\43_bind和ref参数绑定\43_bind和ref参数绑定\源.cpp(23): warning C4018: “>”: 有符号/无符号不匹配
+  43_bind和ref参数绑定.vcxproj -> D:\规范格式代码\C++\43_bind和ref参数绑定\Debug\43_bind和ref参数绑定.exe
+  43_bind和ref参数绑定.vcxproj -> D:\规范格式代码\C++\43_bind和ref参数绑定\Debug\43_bind和ref参数绑定.pdb (Partial PDB)

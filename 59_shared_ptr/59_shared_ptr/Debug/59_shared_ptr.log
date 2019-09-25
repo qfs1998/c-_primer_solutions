@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\thinkpad\source\repos\59_shared_ptr\59_shared_ptr\main.cpp(151): error C2664: “std::shared_ptr<int>::shared_ptr(std::shared_ptr<int> &&) noexcept”: 无法将参数 1 从“std::unique_ptr<int,std::default_delete<_Ty>>”转换为“std::unique_ptr<int,std::default_delete<_Ty>> &&”
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\thinkpad\source\repos\59_shared_ptr\59_shared_ptr\main.cpp(151): note: 无法将左值绑定到右值引用
